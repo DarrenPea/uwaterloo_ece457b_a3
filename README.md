@@ -1,1 +1,1 @@
-# uwaterloo_ece457b_a3
+# ECE 457B Assignment 3 (CNN)
